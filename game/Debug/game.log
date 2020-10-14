@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> C:\Users\hbahe\Documents\C++ Project\Forest Gunner\Debug\game.exe
